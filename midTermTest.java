@@ -5,6 +5,6 @@ public class midTermTest {
 
     @Test
     public void minus(){
-        assertEquals(2,midTerm.minus(2, 1));
+        assertEquals(1,midTerm.minus(2, 1));
     }
 }
